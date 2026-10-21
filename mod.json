@@ -1,0 +1,11 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "win": "2.2074"
+  },
+  "id": "yourname.predictive-click-buffer",
+  "name": "Predictive Click Buffer",
+  "version": "v1.0.0",
+  "developer": "yourname",
+  "description": "Buffers jump clicks made in the air. Cycle 4/8/16/32 ticks with F6. Opens a console showing options and inputs."
+}
